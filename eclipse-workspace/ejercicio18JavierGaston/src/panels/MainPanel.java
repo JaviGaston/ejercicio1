@@ -23,8 +23,6 @@ public class MainPanel extends JPanel {
 	private JTextField textFieldPlace;
 	private JTextField textFieldDate;
 
-	private ArrayList<String> textFieldStrings;
-
 	/**
 	 * Create the panel.
 	 */
